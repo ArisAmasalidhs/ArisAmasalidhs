@@ -70,4 +70,17 @@ You can download my CV here:
 
 ## My Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArisAmasalidhs&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisAmasalidhs&layout=compact&theme=dark)  
+
+---
+
+### Recent Activity 💻  
+- 🟩 **Total Commits This Year**: 102  
+- 🛠 **Repositories Created**: 11  
+- 🌟 **Stars Earned**: [Star count, if applicable]  
+
+---
+
+### Contribution Graph 🌱  
+[![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=ArisAmasalidhs&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
