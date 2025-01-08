@@ -18,7 +18,8 @@
 
 ## CV 📄  
 You can download my CV here:  
-[**Aristeidis Amasalidis CV**](https://github.com/ArisAmasalidhs/Aristeidis-Amasalidis-CV)  
+[**Aristeidis Amasalidis CV**]([Aristeidis Amasalidis CV.pdf](https://github.com/user-attachments/files/18351818/Aristeidis.Amasalidis.CV.pdf)
+)  
 
 ---
 
@@ -56,8 +57,7 @@ You can download my CV here:
 ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=flat)  
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=flat)  
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat)  
-![Cubase](https://img.shields.io/badge/-Cubase-1A1A1A?logoColor=white&style=flat)  
-![Sonar](https://img.shields.io/badge/-Sonar-4E9BCD?style=flat)  
+
 
 ---
 
