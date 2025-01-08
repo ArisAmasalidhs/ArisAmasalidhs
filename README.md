@@ -1,4 +1,4 @@
-# Hiya! 👋 I'm Aristeidis Amasalidis  
+# Hello World! 👋 I'm Aristeidis Amasalidis  
 
 ## About Me  
 - 🌍 Based in **Germany (Lüdenscheid)**  
