@@ -26,40 +26,24 @@ You can download my CV here:
 ## Technical Skills 💻  
 
 ### Frontend  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)  
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)  
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) |  
+|---|---|---|---|  
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat) | ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat) |  
 
 ---
 
 ### Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat)  
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) | ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat) |  
+|---|---|---|---|  
 
 ---
 
 ### Tools & Others  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
-![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-5849BE?style=flat)  
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat)  
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
-![Reaper](https://img.shields.io/badge/-Reaper-0A84D6?style=flat)  
-![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=flat)  
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=flat)  
-![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat)  
+| ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat) | ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-5849BE?style=flat) |  
+|---|---|---|---|  
+| ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat) | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=flat) | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) | ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat) |  
+| ![Reaper](https://img.shields.io/badge/-Reaper-0A84D6?style=flat) | ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?logo=adobe-lightroom&logoColor=white&style=flat) | ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?logo=adobe-premiere-pro&logoColor=white&style=flat) | ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=flat) |  
 
-
----
 
 ## Fun Facts About Me 😄  
 - 🎮 I enjoy gaming in my free time!  
