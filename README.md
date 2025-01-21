@@ -19,7 +19,7 @@
 ## CV 📄  
 You can download my CV here:  
 ([[Aristeidis Amasalidis.pdf](https://github.com/user-attachments/files/18493463/Aristeidis.Amasalidis.pdf)
-](https://github.com/user-attachments/files/18351818/Aristeidis.Amasalidis.CV.pdf)
+]
 )  
 
 ---
